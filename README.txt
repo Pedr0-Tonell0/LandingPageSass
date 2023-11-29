@@ -1,4 +1,4 @@
-Ejecutar estos comandos en la consola (cmd):
+Ejecutar los siguientes comandos en la consola (cmd):
 
 npm install -g sass
 sass --watch scss/main.scss css/main.css
